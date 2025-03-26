@@ -30,7 +30,7 @@
     "Node.js.project2.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework-2",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Workspace/InteractiveGraphics-Homeworks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -50,6 +50,7 @@
       <updated>1742579258281</updated>
       <workItem from="1742579259363" duration="1422000" />
       <workItem from="1742832537087" duration="3750000" />
+      <workItem from="1742838967186" duration="180000" />
     </task>
     <servers />
   </component>
