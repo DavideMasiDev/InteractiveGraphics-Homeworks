@@ -1,0 +1,19 @@
+# Ignora i file di log
+*.log
+
+# Ignora le cartelle di build
+build/
+dist/
+
+# Ignora le cartelle specifiche dell'IDE
+.vscode/
+.idea/
+
+# Ignora i file di sistema specifici di MacOS
+.DS_Store
+
+# Ignora i file generati da Node.js
+node_modules/
+
+# Ignora i file temporanei di sistema
+Thumbs.db
